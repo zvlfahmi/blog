@@ -1,5 +1,5 @@
 ---
-title: "Camera Noob Guide: Basic I"
+title: "Camera Noob Guide: Segitiga Exposure"
 date: 2024-11-03T13:29:29+07:00
 math: false
 tags: []
