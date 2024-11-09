@@ -3,9 +3,9 @@ title: "About"
 date: 2024-05-23T08:06:40+07:00
 type: about
 ---
-Halo! My name is Zulfahmi Azka, i'm a 16yo hobbyist programmer from Indonesia.
-I'm currently studying in Islamic High School.
-I also sometime does photography.
+
+![img alt text](/me.jpg)
+Hello! My Name is Zulfahmi Azka, i'm a hobbyist and self-taught programmer and photographer. I'm an Islamic High School student from Indonesia, I primarily code in C++. This is my personal blog
 
 Github : [zvlfahmi](https://github.com/zvlfahmi)
 
